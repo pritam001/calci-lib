@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pritam001/calci-lib/issues"
   },
-  "homepage": "https://github.com/pritam001/calci-lib#readme"
+  "homepage": "https://github.com/pritam001/calci-lib#readme",
+  "dependencies": {
+    "calc-percent": "1.0.1"
+  }
 }
