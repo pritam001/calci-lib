@@ -1,0 +1,13 @@
+# Add 'test' label to any change to *.spec.js files within the source dir
+test:
+  - src/**/*.spec.js
+  - test/**/*
+
+# Add github related updates to .github
+git:
+  - .github/**/*
+
+# package.json update
+npm-package-update:
+  - package.json
+
