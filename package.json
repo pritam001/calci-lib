@@ -1,0 +1,25 @@
+{
+  "name": "calci-lib",
+  "version": "1.0.0",
+  "description": "Sample calculator library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritam001/calci-lib.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Library",
+    "Sample",
+    "Medium"
+  ],
+  "author": "Pritam Sarkar <001pritam2012@gmail.com> (https://github.com/pritam001)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pritam001/calci-lib/issues"
+  },
+  "homepage": "https://github.com/pritam001/calci-lib#readme"
+}
