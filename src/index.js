@@ -30,5 +30,6 @@ module.exports = {
     minus: minus,
     diff: diff,
     multiply: multiply,
-    divide: divide
+    divide: divide,
+    percent: percent
 };
