@@ -1,8 +1,11 @@
 {
   "name": "calci-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample calculator library",
   "main": "lib/index.js",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
