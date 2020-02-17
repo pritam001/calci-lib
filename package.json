@@ -7,7 +7,7 @@
     "/dist"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,8 @@
   "homepage": "https://github.com/pritam001/calci-lib#readme",
   "dependencies": {
     "calc-percent": "1.0.1"
+  },
+  "devDependencies": {
+    "jest": "25.1.0"
   }
 }
