@@ -1,7 +1,7 @@
 branches:
   only:
     - master
-    - /^\d+\.(\d+|x)(\.x)?$/
+    - semantic-release-integration
 
 jobs:
   include:
