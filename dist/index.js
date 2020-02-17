@@ -21,6 +21,10 @@ function divide(a, b) {
     return a / b;
 }
 
+function mod(a, b) {
+    return a % b;
+}
+
 function percent(a, b, suffix, decimal) {
     return calcPercent(a, b, {suffix: suffix, decimal: decimal});
 }
@@ -31,5 +35,6 @@ module.exports = {
     diff: diff,
     multiply: multiply,
     divide: divide,
+    mod: mod,
     percent: percent
 };
