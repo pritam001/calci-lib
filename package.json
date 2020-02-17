@@ -7,6 +7,7 @@
     "/dist"
   ],
   "scripts": {
+    "commit": "git-cz",
     "test": "jest",
     "semantic-release": "semantic-release"
   },
@@ -30,7 +31,14 @@
     "calc-percent": "1.0.1"
   },
   "devDependencies": {
+    "commitizen": "4.0.3",
+    "cz-conventional-changelog": "3.1.0",
     "jest": "25.1.0",
     "semantic-release": "^17.0.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
   }
 }
