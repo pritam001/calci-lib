@@ -10,5 +10,9 @@ jobs:
       node_js: lts/*
       install:
         - travis_retry npm install
+      before-script:
+        - npm prune
       script:
+        - npm run test
+      after-success:
         - npm run semantic-release

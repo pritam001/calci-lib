@@ -4,7 +4,6 @@ services:
   - docker
 
 import:
-  - .travis/node.yml
   - .travis/node-versions.yml
   - .travis/calci-lib.yml
   - .travis/greenkeeper.yml
