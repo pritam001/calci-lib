@@ -6,6 +6,11 @@
 ![License](https://img.shields.io/npm/l/calci-lib?style=plastic&label=License)
 ![Downloads](https://img.shields.io/npm/dm/calci-lib?label=Downloads&style=plastic)
 
+### Git Actions:
+[![Actions Status](https://github.com/pritam001/calci-lib/workflows/Greetings/badge.svg)](https://github.com/pritam001/calci-lib/actions?query=workflow%3AGreetings)
+[![Actions Status](https://github.com/pritam001/calci-lib/workflows/Labeler/badge.svg)](https://github.com/pritam001/calci-lib/actions?query=workflow%3ALabeler)
+
+### Library introduction
 Sample javascript library for a Medium article
 
 
