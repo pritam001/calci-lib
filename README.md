@@ -1,6 +1,6 @@
 # calci-lib
 ![npmBuild](https://img.shields.io/npm/v/calci-lib?label=Release%20&style=plastic)
-![GithubAction](https://img.shields.io/github/workflow/status/pritam001/calci-lib/Greetings/master?label=Git%20Action&style=plastic)
+![GithubAction](https://github.com/pritam001/calci-lib/actions)
 ![TravisBuild](https://img.shields.io/travis/com/pritam001/calci-lib?label=Travis%20Build&style=plastic)
 ![Dependency](https://img.shields.io/librariesio/release/npm/calci-lib?label=Dependency&style=plastic)\
 ![License](https://img.shields.io/npm/l/calci-lib?style=plastic&label=License)
