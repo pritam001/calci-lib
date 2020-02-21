@@ -1,6 +1,6 @@
 {
   "name": "calci-lib",
-  "version": "1.0.12",
+  "version": "0.0.0",
   "description": "Sample calculator library",
   "main": "lib/index.js",
   "files": [
