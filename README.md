@@ -4,6 +4,7 @@
 ![TravisBuild](https://img.shields.io/travis/com/pritam001/calci-lib?label=Travis%20Build&style=plastic)
 ![Dependency](https://img.shields.io/librariesio/release/npm/calci-lib?label=Dependency&style=plastic)\
 ![License](https://img.shields.io/npm/l/calci-lib?style=plastic&label=License)
+![Downloads](https://img.shields.io/npm/dm/calci-lib?label=Downloads&style=plastic)
 
 Sample javascript library for a Medium article
 
