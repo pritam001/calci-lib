@@ -3,7 +3,6 @@
 ![TravisBuild](https://img.shields.io/travis/com/pritam001/calci-lib?label=Travis%20Build&style=plastic)
 ![Dependency](https://img.shields.io/librariesio/release/npm/calci-lib?label=Dependency&style=plastic)
 [![codecov](https://codecov.io/gh/pritam001/calci-lib/branch/master/graph/badge.svg)](https://codecov.io/gh/pritam001/calci-lib)
-![codecov-shield](https://img.shields.io/codecov/c/github/pritam001/calci-lib?style=plastic&token=40dc28be57674d6aa4cf6eaf10058e8e)
 ![License](https://img.shields.io/npm/l/calci-lib?style=plastic&label=License)
 ![Downloads](https://img.shields.io/npm/dm/calci-lib?label=Downloads&style=plastic)
 
