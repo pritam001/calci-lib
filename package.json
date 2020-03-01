@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "commit": "git-cz",
-    "test": "jest",
+    "test": "jest --coverage",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -31,6 +31,7 @@
     "calc-percent": "1.0.1"
   },
   "devDependencies": {
+    "codecov.io": "0.1.6",
     "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.1.0",
     "jest": "25.1.0",
