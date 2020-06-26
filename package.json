@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "codecov.io": "0.1.6",
-    "commitizen": "4.0.3",
+    "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.1.0",
     "jest": "25.1.0",
     "semantic-release": "^17.0.4"
